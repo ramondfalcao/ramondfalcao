@@ -4,16 +4,7 @@
 - I live in :brazil:, Maceió/AL :sunglasses::sunrise:
 - At the moment,studying software development at the Digital House.:computer:
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/ramond-falc%C3%A3o-b528a1206/" target="_blank">
-<img align="center" alt="ramond-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-</a>
-<a href="" target="_blank">
-<img align="center" alt="ramond-youtube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width:100%;">
-</a>
-<a href="" target="_blank">
-<img align="center" alt="ramond-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
-</a>
+
 
 ## Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"></img>
