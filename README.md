@@ -20,8 +20,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 
-![Ramond's github stats](https://github-readme-stats.vercel.app/api?username=ramondfalcao&show_icons=true&count_private=true&theme=radical)
-
+<p>
+ <img height="130" src="https://github-readme-stats.vercel.app/api?username=ramondfalcao&count_private=true&theme=yeblu"> 
+ <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramondfalcao&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ramondfalcao" />
+</p>
 <!--
 **ramondfalcao/ramondfalcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
