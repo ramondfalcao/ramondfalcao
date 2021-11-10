@@ -10,5 +10,3 @@
 ## Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 
-
- ![Snake animation](https://github.com/ramondfalcao/ramondfalcao/blob/output/github-contribution-grid-snake.svg)
