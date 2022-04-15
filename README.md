@@ -13,4 +13,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width:100%;"></img>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramondfalcao&layout=compact)](https://github.com/ramondfalcao/github-readme-stats)
 
+[![Ramond Falcão GitHub stats](https://github-readme-stats.vercel.app/api?username=ramondfalcao)](https://github.com/ramondfalcao/github-readme-stats)
