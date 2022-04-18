@@ -16,3 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramondfalcao&layout=compact)](https://github.com/ramondfalcao/github-readme-stats)
 
 [![Ramond Falcão GitHub stats](https://github-readme-stats.vercel.app/api?username=ramondfalcao)](https://github.com/ramondfalcao/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramondfalcao&theme=dark)](https://git.io/streak-stats)
