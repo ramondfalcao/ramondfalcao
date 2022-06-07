@@ -10,7 +10,8 @@
 <p>📫 How to reach me? ramondfalcao@gmail.com</p>
 
 ## 👨🏻‍💻 My Portfolio
-<p>I regularly write articles on <a href="https://ramondfalcao.github.io/portifolio/">My Portfolio</a></p>
+
+<a href="https://ramondfalcao.github.io/portifolio/"><img style="margin-bottom: 4px;" height="250px" src="./img/portfolio.svg"></img></a>
 
 ## 💻 Skills
 <p>
