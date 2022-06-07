@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 My Portfolio
 
-<a href="https://ramondfalcao.github.io/portifolio/"><img style="margin-bottom: 4px;" height="250px" src="./img/portfolio.svg"></img></a>
+<a target="_blank" href="https://ramondfalcao.github.io/portifolio/"><img style="margin-bottom: 4px;" height="250px" src="./img/portfolio.svg"></img></a>
 
 ## 💻 Skills
 <p>
