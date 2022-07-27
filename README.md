@@ -13,7 +13,7 @@
 
 <a target="_blank" href="https://ramondfalcao.github.io/portifolio/"><img style="margin-bottom: 4px;" height="250px" src="./img/portfolio.svg"></img></a>
 
-## 💻 Frontend Technologies 
+## 💻 Frontend 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
-## 💻 Backend Technologies 
+## 💻 Backend 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
