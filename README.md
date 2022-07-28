@@ -5,9 +5,6 @@
 - I live in :brazil:, Maceió/AL :sunglasses::sunrise:
 - At the moment,studying software development at the Trybe.:computer:
 
-## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Docker, nodejs and mysql</p>
-<p>📫 How to reach me? ramondfalcao@gmail.com</p>
 
 ## 👨🏻‍💻 My Portfolio
 
