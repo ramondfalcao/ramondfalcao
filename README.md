@@ -39,11 +39,7 @@
   <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&amp;logo=sinon" alt="Sinon.js" style="margin-bottom: 4px;" height="30px">
   
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="typescript" style="margin-bottom: 4px;" height="30px">
-</p>
-
-## 💻 Learning
-<p align="left">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="margin-bottom: 4px;" height="30px">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 👥 Connect With Me
