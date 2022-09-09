@@ -40,10 +40,8 @@
   
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="margin-bottom: 4px;" height="30px">
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="margin-bottom: 4px;" height="30px">
 </p>
-
-## Learning
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="margin-bottom: 4px;" height="30px">
 
 ## 👥 Connect With Me
 <p>
