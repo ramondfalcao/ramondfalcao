@@ -1,9 +1,8 @@
-
-![github-header-image (5)](https://user-images.githubusercontent.com/78918784/170829950-5824be23-5026-407e-b8ce-0bcff6022711.png)
+<h1>Hey I'am Ramond Falcão, Fullstack Developer!</h1>
 
 
 - I live in :brazil:, Maceió/AL :sunglasses::sunrise:
-- At the moment,studying software development at the Trybe.:computer:
+- Currently, FullStack Developer at Veloo Telecom..:computer:
 
 
 ## 👨🏻‍💻 My Portfolio
