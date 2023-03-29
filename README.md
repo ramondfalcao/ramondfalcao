@@ -8,7 +8,7 @@ Desde então, fui selecionado em um dos melhores cursos de <strong>desenvolvimen
 Sou um desenvolvedor dedicado e que acima de tudo ama <strong>trabalhar em equipe</strong>, debater ideias e estimular a <strong>criatividade</strong>, sempre desenvolvendo com responsabilidade e analisando meu desempenho diariamente, buscando as informações que preciso de forma <strong>proativa</strong> e sabendo escutar os feedbacks para evoluir ainda mais minhas habilidades.
 
 ## 📈 Status
-<h4>Desenvolvedor Fullstack na Veloo Telecom</h4>
+<h3>Desenvolvedor Fullstack na Veloo Telecom</h3>
 
 ## 👨🏻‍💻 Portfolio
 
