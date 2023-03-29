@@ -1,4 +1,4 @@
-<h1>Oi me chamo Ramond Falcão, e sou um Desenvolvedor FullStack!</h1>
+<h1>Oi me chamo Ramond Falcão, tenho 20 anos, e sou um Desenvolvedor FullStack!</h1>
 
 
 Meu irmão mais velho um dia me mostrou um livro que ensinava programação em linguagem C, e me mostrou alguns códigos, foi aí que me apaixonei, vi <strong>milhares de possibilidades que o mundo da tecnologia proporcionava</strong> e decidi estudar.
