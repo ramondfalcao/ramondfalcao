@@ -1,11 +1,14 @@
-<h1>Hey I'am Ramond Falcão, Fullstack Developer!</h1>
+<h1>Oi me chamo Ramond Falcão, e sou um Desenvolvedor FullStack!</h1>
 
 
-- I live in :brazil:, Maceió/AL :sunglasses::sunrise:
-- Currently, FullStack Developer at Veloo Telecom..:computer:
+Meu irmão mais velho um dia me mostrou um livro que ensinava programação em linguagem C, e me mostrou alguns códigos, foi aí que me apaixonei, vi milhares de possibilidades que o mundo da tecnologia proporcionava e decidi estudar.
+
+Desde então, fui selecionado em um dos melhores cursos de <strong>desenvolvimento web</strong> do mercado, o qual é a <strong>Trybe</strong>, uma escola de programação onde aprendemos a desenvolver aplicações eficientes, bem escritas e de forma prática, aplicando conceitos básicos e avançados, tendo como grande <strong>diferencial</strong> o desenvolvimento das <strong>"Soft Skills"</strong> de forma tão eficiente quanto as hard skills, as quais são as habilidades que todo desenvolvedor precisa para ir bem em uma empresa ou até mesmo desenvolver seu próprio negócio.
+
+Sou um desenvolvedor dedicado e que acima de tudo ama <strong>trabalhar em equipe</strong>, debater ideias e estimular a <strong>criatividade</strong>, sempre desenvolvendo com responsabilidade e analisando meu desempenho diariamente, buscando as informações que preciso de forma <strong>proativa</strong> e sabendo escutar os feedbacks para evoluir ainda mais minhas habilidades.
 
 
-## 👨🏻‍💻 My Portfolio
+## 👨🏻‍💻 Portfolio
 
 <a target="_blank" href="https://ramondfalcao.github.io/portifolio/"><img style="margin-bottom: 4px;" height="250px" src="./img/portfolio.svg"></img></a>
 
