@@ -42,7 +42,6 @@ Sou um desenvolvedor dedicado e que acima de tudo ama <strong>trabalhar em equip
   <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&amp;logo=chai&amp;logoColor=red" alt="Chai.js" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&amp;logo=sinon" alt="Sinon.js" style="margin-bottom: 4px;" height="30px">
   
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="margin-bottom: 4px;" height="30px">
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="margin-bottom: 4px;" height="30px">
 </p>
