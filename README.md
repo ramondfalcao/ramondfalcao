@@ -28,6 +28,7 @@ Sou um desenvolvedor dedicado e que acima de tudo ama <strong>trabalhar em equip
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Next.js-339933?style=for-the-badge&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 💻 Backend 
