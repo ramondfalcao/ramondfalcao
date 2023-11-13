@@ -10,10 +10,6 @@ Sou um desenvolvedor dedicado e que acima de tudo ama <strong>trabalhar em equip
 ## 📈 Status
 <h3>Desenvolvedor Fullstack na Itelx tech</h3>
 
-## 👨🏻‍💻 Portfolio
-
-<a target="_blank" href="https://ramondfalcao.github.io/portifolio/"><img style="margin-bottom: 4px;" height="250px" src="./img/portfolio.svg"></img></a>
-
 ## 💻 Frontend 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 4px;" height="30px">
