@@ -6,7 +6,7 @@ Sou um desenvolvedor dedicado e que acima de tudo ama <strong>trabalhar em equip
 
 ## 📈 Status
 <h3>1 ano de experiência</h3>
-<h3>Desenvolvedor Fullstack na Itelx tech</h3>
+<h3>Desenvolvedor Fullstack na Itelx Tech</h3>
 
 ## 💻 Frontend 
 <p>
