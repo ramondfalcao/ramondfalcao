@@ -1,12 +1,12 @@
-<h1>Oi me chamo Ramond Falcão, tenho 21 anos, e sou <i>Desenvolvedor FullStack!</i></h1>
+<h1>Hi, my name is Ramond Falcão, I'm 21 years old, and I'm a FullStack Developer!</i></h1>
 
-Meu irmão mais velho um dia me mostrou um livro que ensinava programação em linguagem C, e me mostrou alguns códigos, foi aí que me apaixonei, vi <strong>milhares de possibilidades que o mundo da tecnologia proporcionava</strong> e decidi estudar.
+My older brother once showed me a book that taught programming in C language and showed me some codes, that's when I fell in love, I saw <strong>thousands of possibilities that the world of technology provided</strong> and decided to study.
 
-Sou um desenvolvedor dedicado e que acima de tudo ama <strong>trabalhar em equipe</strong>, debater ideias e estimular a <strong>criatividade</strong>, sempre desenvolvendo com responsabilidade e analisando meu desempenho diariamente, buscando as informações que preciso de forma <strong>proativa</strong> e sabendo escutar os feedbacks para evoluir ainda mais minhas habilidades.
+I am a dedicated developer who above all loves <strong>working in a team</strong>, debating ideas, and stimulating <strong>creativity</strong>, always developing with responsibility and analyzing my performance daily, seeking the information I need <strong>proactively</strong> and knowing how to listen to feedback to further evolve my skills.
 
 ## 📈 Status
-<h3>1 ano de experiência</h3>
-<h3>Desenvolvedor Fullstack na Itelx Tech</h3>
+<h3>1 year of experience</h3>
+<h3>Fullstack Developer at Itelx Tech</h3>
 
 ## 💻 Frontend 
 <p>
