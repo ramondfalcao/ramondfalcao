@@ -63,5 +63,7 @@ I am a dedicated developer who above all loves <strong>working in a team</strong
 </p>
 
 ## 📊 Github Status
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondfalcao&layout=donut"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramondfalcao&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ramondfalcao&show_icons=true&theme=transparent"><p>
+
