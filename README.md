@@ -23,11 +23,6 @@ I am a dedicated developer who above all loves <strong>working in a team</strong
 ## 💻 Backend 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&amp;logo=sequelize&amp;logoColor=blue" alt="Sequelize" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="Json Web Tokens" style="margin-bottom: 4px;" height="30px">
-  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha.js" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="margin-bottom: 4px;" height="30px">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="typescript" style="margin-bottom: 4px;" height="30px">
 </p>
