@@ -5,7 +5,7 @@ My older brother once showed me a book that taught programming in C language and
 I am a dedicated developer who above all loves <strong>working in a team</strong>, debating ideas, and stimulating <strong>creativity</strong>, always developing with responsibility and analyzing my performance daily, seeking the information I need <strong>proactively</strong> and knowing how to listen to feedback to further evolve my skills.
 
 ## 📈 Status
-<h3>Fullstack Developer at Itelx Tech</h3>
+<h3>Fullstack Developer at Veloo Telecom</h3>
 
 ## 💻 Frontend 
 <p>
