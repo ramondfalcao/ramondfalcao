@@ -1,8 +1,10 @@
 <h1>Hi, my name is Ramond Falcão, I'm 22 years old, and I'm a FullStack Developer!</i></h1>
 
-My older brother once showed me a book that taught programming in C language and showed me some codes, that's when I fell in love, I saw <strong>thousands of possibilities that the world of technology provided</strong> and decided to study.
+I am a software developer with <b>3 years of experience</b>, motivated and passionate about solving problems with technology. I always seek to improve myself and analyze my performance to continue evolving in the field.
 
-I am a dedicated developer who above all loves <strong>working in a team</strong>, debating ideas, and stimulating <strong>creativity</strong>, always developing with responsibility and analyzing my performance daily, seeking the information I need <strong>proactively</strong> and knowing how to listen to feedback to further evolve my skills.
+I have experience in full-stack development, working in all stages of the process, from the front-end to the back-end and database. Currently, I frequently use the <b>Next.js + Nest.js</b> stack, <b>ORM Prisma</b> and databases such as <b>MongoDB</b>, <b>MySQL</b> or <b>Postgres</b>. In addition, I always work with containerization using Docker.
+
+In addition to technical skills, I am focused on developing my qualities as a professional, seeking to improve my communication, teamwork and ability to deal with challenges in a creative and efficient way.
 
 ## 📈 Status
 <h3>Fullstack Developer at Veloo Telecom</h3>
@@ -52,7 +54,6 @@ I am a dedicated developer who above all loves <strong>working in a team</strong
 <p>
 <a href = "mailto:ramondfalcao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  style="margin-bottom: 4px;" height="30px"></a>  
 <a href="https://www.linkedin.com/in/ramond-falcao/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.hackerrank.com/ramondfalcao"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 📊 Github Status
