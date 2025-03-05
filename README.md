@@ -1,4 +1,4 @@
-<h1>Hi, my name is Ramond Falcão, I'm 22 years old, and I'm a FullStack Developer!</i></h1>
+<h1>FullStack Developer!</i></h1>
 
 I am a software developer with <b>3 years of experience</b>, motivated and passionate about solving problems with technology. I always seek to improve myself and analyze my performance to continue evolving in the field.
 
