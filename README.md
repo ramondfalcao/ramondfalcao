@@ -7,7 +7,7 @@ I have experience in full-stack development, working in all stages of the proces
 In addition to technical skills, I am focused on developing my qualities as a professional, seeking to improve my communication, teamwork and ability to deal with challenges in a creative and efficient way.
 
 ## 📈 Status
-<h3>Fullstack Developer at Veloo Telecom</h3>
+<h3>Fullstack Developer at Mesha</h3>
 
 ## 💻 Frontend 
 
